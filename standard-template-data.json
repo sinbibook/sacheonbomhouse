@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-05-21T06:51:54.471492533Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-05-21T07:14:55.082944201Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "4ed91dda-df13-4386-9195-eefebf39586c",
     "homepageId": "392e43bf-95a8-4ea6-b401-8a3da0c744be"
@@ -701,7 +701,24 @@
               },
               "essence": {
                 "title": "강릉 사천해변 인근에 위치한 사천 봄하우스에서 여유로운 휴식을 즐겨보세요. 사천 바다와 가까워 시원한 바닷바람과 잔잔한 파도 소리를 편안하게 느끼실 수 있습니다. 두 개의 독채로 구성된 프라이빗 공간으로 가족여행과 소규모 모임에도 잘 어울립니다. 개별 독채 구조로 조용하고 편안한 시간을 보내실 수 있으며 바베큐 시설도 마련되어 있습니다. 신축 숙소의 깔끔한 컨디션과 따뜻한 감성으로 특별한 여행의 추억을 선물합니다.",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "0b47cd80-3c01-43f6-b2cc-b14f77a4777f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/392e43bf-95a8-4ea6-b401-8a3da0c744be/index_essence/1779347687584-yonlgxo12z.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "62c21807-3452-419a-9300-51692688e98b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/392e43bf-95a8-4ea6-b401-8a3da0c744be/index_essence/1779347687584-oh6fcrow2o.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": "A Warm And Peaceful Stay Near Sacheon Beach At Sacheon Bom House."
