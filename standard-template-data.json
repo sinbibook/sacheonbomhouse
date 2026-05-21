@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-05-21T06:40:18.153828447Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-05-21T06:51:54.471492533Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "4ed91dda-df13-4386-9195-eefebf39586c",
     "homepageId": "392e43bf-95a8-4ea6-b401-8a3da0c744be"
@@ -567,7 +567,16 @@
     "templateType": "full_banner_slider_flat",
     "images": [
       {
-        "logo": [ ]
+        "logo": [
+          {
+            "id": "66b9c32d-1f81-4422-a3fa-ce4e09dbd626",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/392e43bf-95a8-4ea6-b401-8a3da0c744be/logo/1779346309505-jnuxrp0nmx.png",
+            "sortOrder": 0,
+            "description": "강릉 프라이빗한 독채 감성과 여유로운 휴식을 즐길 수 있는 사천 봄하우스",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "seo": {
